@@ -1,5 +1,8 @@
 RENCANA CONTENT EK
+
 - Javascript
+ * ES6
+ * Framework JS
 - PHP Framework
 - Interview
 - Vlogs
