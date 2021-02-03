@@ -1,5 +1,0 @@
-RENCANA CONTENT EK
-- Javascript
-- PHP Framework
-- Interview
-- Vlogs
